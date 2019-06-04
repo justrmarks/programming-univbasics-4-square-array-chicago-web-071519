@@ -7,4 +7,6 @@ def square_array(array)
     counter++;
 end 
 
+r
+
 end
