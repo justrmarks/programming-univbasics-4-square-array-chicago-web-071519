@@ -1,12 +1,14 @@
 def square_array(array)
   # your code here
+  
+  result = array;
   counter = 0;
   
-  while counter < array.length do
-    array[counter] =  array[counter]**2;
+  while counter < result.length do
+    result[counter] =  result[counter]**2;
     counter++;
 end 
 
-r
+return result;
 
 end
